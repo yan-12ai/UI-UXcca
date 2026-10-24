@@ -3,7 +3,7 @@
 
 **Group Members:**
 - Ayan Ahmad — PRN: 1032232862
-- Omkar Gawas
+- Omkar Gawas - PRN: 1032232971
 
 **Final Prototype:** [Simplified Investment Interface](https://www.figma.com/make/NzYSDmFdmJVzqIUFs9Zsjm/Simplified-Investment-Interface?p=f&fullscreen=1)
 
