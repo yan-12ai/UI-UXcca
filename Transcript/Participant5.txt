@@ -1,0 +1,197 @@
+# Participant 5 — Male, Age 23
+
+**Task: Explore stocks, mutual funds, IPOs, investment comparisons, and accessibility options.**
+
+## Transcript 5A — Original Angel One Website
+
+Okay, so this is Angel One.
+
+I've seen this website before, but I haven't really explored everything.
+
+Let me check the homepage.
+
+Hmm... there's quite a lot of information here.
+
+Stocks, mutual funds, IPOs, trading... all the usual investment options.
+
+Okay, I'll start with stocks.
+
+Let me click that.
+
+Right, there's information related to stock investing.
+
+I'm scrolling through it.
+
+Okay, this looks useful.
+
+There are quite a few things here, though.
+
+I think someone who actively trades would probably understand everything more easily.
+
+Let me check Mutual Funds now.
+
+Okay, going back.
+
+Hmm... where was Mutual Funds?
+
+Oh, here.
+
+I'll open it.
+
+Right, so this is the mutual funds section.
+
+Now suppose I want to compare stocks and mutual funds.
+
+Let me see how I can do that.
+
+Hmm...
+
+Maybe there's a comparison feature somewhere.
+
+I'm looking through the navigation.
+
+Wait, let me check the investment-related sections.
+
+Okay, there's information about different products.
+
+But I feel like I have to read quite a bit before understanding which option might be better for me.
+
+Like, I know stocks can involve higher risk, but a beginner might not understand the differences immediately.
+
+Okay, now I'll check IPOs.
+
+Let me find that.
+
+Yeah, here it is.
+
+Opening it.
+
+Okay, there's IPO-related information.
+
+That's useful.
+
+Let me return to the homepage.
+
+Hmm, I think the website has a lot of features.
+
+And that's good if you're someone who invests regularly.
+
+But for someone who's just starting, there's quite a lot to understand.
+
+I feel like the homepage could be simpler.
+
+Maybe the main investment options could be separated more clearly.
+
+And there should be an easier way to compare investments.
+
+Overall, I think Angel One has plenty of information, but it takes some time to get comfortable navigating through everything.
+
+## Transcript 5B — Your Redesigned Website
+
+Okay, now I'm opening the redesigned website.
+
+Hmm... okay, this looks quite different.
+
+The homepage is simpler.
+
+I can see the main investment categories without too much information around them.
+
+Let me check Stocks first.
+
+Okay, opening that.
+
+Yeah, this looks organized.
+
+The information is separated properly.
+
+Let me scroll a little.
+
+Okay.
+
+Now I'll check Mutual Funds.
+
+That's easy to find.
+
+Opening it.
+
+Hmm, yeah, this is straightforward.
+
+I like that the navigation is consistent.
+
+Now I want to compare stocks and mutual funds.
+
+Let me check if there's a comparison option.
+
+Umm...
+
+Okay, I found it.
+
+I'll open that.
+
+Oh, nice.
+
+This is actually useful.
+
+Having the comparison information together makes things easier.
+
+Otherwise, I'd probably have to keep switching between different pages.
+
+Although, I think the comparison could explain risk levels more clearly.
+
+Like, which investment might be more suitable for beginners.
+
+Okay, now let me check IPOs.
+
+Yeah, there's a separate section.
+
+That's good.
+
+Let me go back to the homepage.
+
+Now I'll try the accessibility settings.
+
+Okay, I can see the accessibility option.
+
+Let me open it.
+
+There's text size, high contrast, and reduced motion.
+
+I'll try reduced motion first.
+
+Okay, enabled.
+
+Hmm... I don't really notice much difference.
+
+Maybe it affects animations when moving between pages.
+
+Let me try that.
+
+Yeah, I'm still not completely sure what changed.
+
+I think a short explanation would help.
+
+Now I'll try high contrast.
+
+Oh, okay.
+
+That's noticeable.
+
+The text stands out more clearly.
+
+Let me turn it off again.
+
+Okay.
+
+Overall, I think this website is easier to explore.
+
+I like that the calculator, comparison, and learning features are available in one place.
+
+And the accessibility settings are a nice addition.
+
+I think the main thing that still needs improvement is explaining financial terms more simply.
+
+But yeah, compared to the original Angel One website, this version feels less overwhelming.
+
+Especially for someone who's new to investing.
+
+I think that's probably the biggest improvement.

@@ -1,0 +1,155 @@
+# Participant 2 — Female, Age 20
+
+**Task: Find the SIP calculator and estimate the growth of a monthly investment of ₹2,000 over five years.**
+
+## Transcript 2A — Original Angel One Website
+
+Okay, so I've opened Angel One.
+
+I need to find the SIP calculator.
+
+Umm... let me check the homepage first.
+
+There's quite a lot of information here.
+
+I'm looking for something related to calculators.
+
+Hmm... maybe it's under mutual funds?
+
+Let me check.
+
+Okay, I'm opening Mutual Funds.
+
+I'm scrolling down a little.
+
+Wait, I think there should be a calculator somewhere.
+
+Let me look properly.
+
+Okay, I found the SIP calculator.
+
+So now I need to calculate for two thousand rupees per month.
+
+I'll enter two thousand.
+
+And the duration is five years.
+
+Okay.
+
+Now it's showing the estimated returns.
+
+Hmm... that's interesting.
+
+But wait, what return percentage is being used here?
+
+Let me check.
+
+Okay, there are some investment-related values.
+
+I'm trying to understand the final amount.
+
+Like, how much of this is my own money and how much is the return?
+
+I think I understand it now.
+
+Let me try changing the duration.
+
+Okay, the result changes.
+
+That's useful.
+
+But I feel like there's quite a bit of information to look at.
+
+Maybe that's normal for financial websites.
+
+I don't really use investment calculators, so I'm taking some time to understand everything.
+
+Let me go back.
+
+Hmm, okay.
+
+Overall, I think the calculator is useful.
+
+It gives the information I need.
+
+But I would prefer a simpler explanation of the results.
+
+Like, just clearly show the amount I invested and the estimated profit.
+
+That would make it easier for someone who's using an SIP calculator for the first time.
+
+## Transcript 2B — Your Redesigned Website
+
+Okay, now I'm opening the redesigned website.
+
+I need to find the SIP calculator again.
+
+Let me check the navigation.
+
+Umm... okay, there's a calculator section.
+
+I'll click on that.
+
+Yeah, here's the SIP calculator.
+
+That was pretty quick.
+
+Okay, I'll enter two thousand rupees.
+
+And select five years.
+
+Right, now it's showing the estimated amount.
+
+Hmm... okay.
+
+The layout is simpler, so I can understand where to enter the values.
+
+That's nice.
+
+But wait, I'm still a little confused about the return calculation.
+
+Like, is the return percentage fixed?
+
+I'm looking around for an explanation.
+
+Hmm...
+
+I think the website should mention what percentage it's assuming.
+
+Because otherwise someone might think this is the exact amount they'll receive.
+
+Okay, let me try changing the investment amount.
+
+I'll make it three thousand.
+
+Yeah, the result changes.
+
+That's good.
+
+Let me change it back.
+
+Okay.
+
+Now I want to check if there's a way to compare different investment options.
+
+Let me go back.
+
+Okay, there's a comparison section.
+
+I'll open that.
+
+Hmm, this is useful.
+
+I like that I can explore other investment options without leaving the website.
+
+The navigation feels simpler than before.
+
+Although, I think the calculator still needs a better explanation of the final result.
+
+Maybe it could show the invested amount and estimated earnings separately.
+
+But overall, I found the calculator more easily here.
+
+And I didn't have to spend much time understanding where to enter the values.
+
+So yeah, I think this version is more comfortable for beginners.
