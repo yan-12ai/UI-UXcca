@@ -1,5 +1,4 @@
 # UI-UXcca
-# UI/UX CCA-3
 ## Group 6
 
 **Project:** Simplified Investment Interface with Accessibility Features
