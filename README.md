@@ -1,8 +1,6 @@
 # UI/UX CCA
 ## Group 6
 
-**Project:** Simplified Investment Interface with Accessibility Features
-
 **Group Members:**
 - Ayan Ahmad — PRN: 1032232862
 - Omkar Gawas
