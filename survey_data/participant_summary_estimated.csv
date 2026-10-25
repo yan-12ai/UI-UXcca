@@ -1,0 +1,6 @@
+participant_id,participant_name,focus_theme,original_mean_estimate,redesigned_mean_estimate,mean_difference_estimate,data_status
+P1,Divyansh Khandelwal,Beginner orientation and navigation,6.61,7.89,1.28,RETROSPECTIVE ESTIMATE
+P2,Ashlesha,SIP calculator and result interpretation,6.67,7.72,1.06,RETROSPECTIVE ESTIMATE
+P3,Kavindra,"Text size, contrast, and reading comfort",6.78,8.00,1.22,RETROSPECTIVE ESTIMATE
+P4,Samiksha,Keyboard navigation and forms,6.61,7.78,1.17,RETROSPECTIVE ESTIMATE
+P5,Nishant,Investment discovery and comparison,6.72,7.83,1.11,RETROSPECTIVE ESTIMATE
