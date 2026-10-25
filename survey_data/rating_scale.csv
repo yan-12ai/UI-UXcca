@@ -1,0 +1,11 @@
+score,label,rubric_description
+1,Very Poor,"Unusable. Broken navigation, frequent errors, or completely confusing layout."
+2,Poor,Major design flaws. Frustrating to navigate with critical usability barriers.
+3,Below Average,Hard to use. High effort required to accomplish basic tasks.
+4,Slightly Below Average,"Functional, but noticeable usability flaws and inconsistent visual cues."
+5,Average,"Basic functionality works, but the design is plain and lacks clear guidance or polish."
+6,Above Average,"Functional and reasonable to use, with minor design friction or room for cleanup."
+7,Good,"Easy to navigate, clear visual layout, and minor issues that do not disrupt the core experience."
+8,Very Good,"Smooth user experience, intuitive navigation, and clean visually."
+9,Excellent,"Highly polished, intuitive, and seamless. Exceeds expectations for usability."
+10,Outstanding,"Exceptional prototype. Flawless usability, highly engaging, and complete ease of use."
