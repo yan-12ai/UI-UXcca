@@ -13,10 +13,18 @@
 - `Audio/`: ten supplied audio files, with Part 1 and Part 2 for each of five participants.
 - `Transcript/`: five text files containing the original and redesigned website comments.
 - `analysis/qualitative_analysis.md`: cross-participant themes and evidence.
+- `analysis/quantitative_analysis.md`: explains why numerical comparison is not available yet.
 - `analysis/theme_matrix.csv`: compact theme-to-evidence matrix.
 - `reports/final_conclusion.md`: student-style conclusion report.
-- `reports/final_conclusion.docx`: Word version of the report.
 - `survey_data/README.md`: notes about quantitative data availability.
+
+## Quick links
+
+- [Qualitative analysis](analysis/qualitative_analysis.md)
+- [Quantitative data status](analysis/quantitative_analysis.md)
+- [Theme matrix](analysis/theme_matrix.csv)
+- [Conclusion report](reports/final_conclusion.md)
+- [Prototype folder and link](prototype/README.md)
 
 ## Summary of findings
 
