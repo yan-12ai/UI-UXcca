@@ -47,3 +47,8 @@ The text files are treated as supplied paired comments and have not been indepen
 3. Make the accessibility control easy to notice and explain what Reading Comfort and Reduced Motion change.
 4. Use persistent form labels, clearer account-opening progress, and more visible keyboard focus.
 5. Test the prototype with a broader set of users, including people with visual accessibility needs, and record task success, errors, and completion time if quantitative evaluation is required.
+
+
+## Survey data — read before using
+
+The original form response copy was lost. The `survey_data/` folder therefore contains **retrospectively reconstructed estimates**, based on the score distribution remembered by the project owner and the five transcripts. These are explicitly labelled estimates, not verified original responses. Estimated averages are **6.68/10** for the original and **7.84/10** for the redesign (estimated difference **+1.17**). These are not recorded survey results. See [survey data notes](survey_data/README.md) and [quantitative summary](analysis/quantitative_analysis.md).
