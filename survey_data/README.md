@@ -1,21 +1,26 @@
 # Survey data — retrospective estimates
 
-**Important:** The original Google Forms response copy was not available. The CSV and JSON files in this folder are **retrospectively reconstructed estimates**, based on the project owner's memory of the rating distribution and the five supplied transcripts. They are not actual recovered participant-level responses.
+> **Important:** The original Google Forms response copy was not available. These CSV and JSON files contain **retrospectively reconstructed estimates**, not recovered or verified participant-level responses.
 
-The recalled pattern was:
-- Original Angel One: mostly 7, some 5 and 6, and some 8.
+The remembered pattern was:
+- Original Angel One: mostly 7, with some 5 and 6, and some 8.
 - Redesigned prototype: mostly 8, a few 6 or 7, and very few 9.
 
-Individual item ratings were allocated with these bands and transcript themes in mind. The estimates are included for an approximate working summary only. Do not claim that they are exact responses exported from Google Forms.
+The estimated values were allocated using that recalled pattern and the qualitative themes in the five supplied transcripts. The estimates are a working reconstruction only. Do not present them as exact responses exported from Google Forms.
 
-Files:
-- `reconstructed_estimates.json`: estimate matrices with explicit provenance and data disclosure.
-- `participant_ratings_estimated.csv`: one row per participant and parameter.
+## Files
+
+- `reconstructed_estimates.json`: estimate matrices and source/disclosure metadata.
+- `participant_ratings_estimated.csv`: one row per participant and parameter; every row is labeled as a retrospective estimate.
 - `parameter_summary_estimated.csv`: descriptive means and medians by parameter.
-- `participant_summary_estimated.csv`: descriptive averages by participant.
-- `rating_distribution_estimated.csv`: rating-band counts.
-- `questionnaire.csv`: 18 parameter names and wording adapted from the reference repository; verify against your original form screenshot.
-- `rating_scale.csv`: the 1–10 rubric supplied by the project owner.
-- `overall_summary_estimated.json`: estimated means and counts.
+- `participant_summary_estimated.csv`: estimated averages by participant.
+- `rating_distribution_estimated.csv`: count of estimated scores by rating.
+- `questionnaire.csv`: 18 parameter labels and questions adapted from the reference repository; check against the original form screenshot.
+- `rating_scale.csv`: the supplied 1–10 rubric.
+- `overall_summary_estimated.json`: estimated averages and counts.
 
-The transcripts are useful for qualitative analysis but cannot establish the exact individual scores a participant selected. For formal analysis, retrieve the original form response export or collect the ratings again.
+## How to interpret
+
+The transcripts help explain usability themes, but cannot recover exact individual scores. The estimated overall averages are 6.68/10 for the original website and 7.84/10 for the redesigned prototype, an estimated difference of +1.17 points. These are descriptive results from the reconstructed values, not actual survey findings.
+
+For formal submission, try to retrieve the original form response export or recollect the ratings. If these estimates are retained, clearly label them as reconstructed estimates.
