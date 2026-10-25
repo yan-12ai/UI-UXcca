@@ -1,25 +1,44 @@
-# Quantitative analysis — data not available
+# Quantitative summary — retrospective reconstruction only
 
-## Status
+> **Important:** This is not a recovered Google Forms export. The original participant-level ratings were not available. The project owner recalled the overall score bands; the item-level values were reconstructed from that memory and the five transcripts. These values must not be described as exact recorded survey answers.
 
-No numeric participant questionnaire ratings, survey response export, task completion times, click counts, or error counts were present in the repository when this evaluation was prepared. Therefore, a quantitative comparison between the original Angel One website and the redesigned Simplified Investment Interface cannot be calculated from the available files.
+## Estimated overall means
 
-## What can be reported now
+| Version | Estimated mean (1–10) |
+|---|---:|
+| Original Angel One | 6.68 |
+| Redesigned Simplified Investment Interface | 7.84 |
+| Estimated difference | +1.17 |
 
-The repository contains five paired comment transcripts and ten audio files. These support qualitative analysis of perceived navigation, understanding of investment terminology, the SIP calculator, readability and accessibility settings, keyboard navigation, and investment comparison. They do not supply numerical data.
+This working table includes five participants and 18 parameters (90 estimated ratings per version). The calculated difference summarizes the reconstructed values only and is not a verified study result.
 
-## Data to collect for a quantitative comparison
+## Estimated rating distribution
 
-If the project requires quantitative results, collect actual participant responses in a consistent format. Useful measures could include:
+| Score | Original count | Redesigned count |
+|---:|---:|---:|
+| 1 | 0 | 0 |
+| 2 | 0 | 0 |
+| 3 | 0 | 0 |
+| 4 | 0 | 0 |
+| 5 | 3 | 0 |
+| 6 | 32 | 3 |
+| 7 | 46 | 10 |
+| 8 | 9 | 75 |
+| 9 | 0 | 2 |
+| 10 | 0 | 0 |
 
-- A usability rating for the original and redesigned interface using the same questions and scale.
-- Whether each participant completed each task successfully.
-- Time needed to complete each task.
-- Number of navigation errors or requests for help.
-- A post-task or overall satisfaction rating.
+The pattern follows the owner's recollection: original ratings mostly 7, some 5/6, and some 8; redesigned ratings mostly 8, with a few 6/7 and very few 9. The counts are approximate because source responses are missing.
 
-Keep original responses and identify missing answers. Calculate descriptive statistics only after the response data has been collected and verified. Do not infer ratings from participant comments or create values to fill gaps.
+## Interpretation from the transcripts
 
-## Interpretation boundary
+- **Navigation and beginner support:** P1 found Mutual Funds and Learn easier to locate in the redesign, but asked for clear definitions of NAV and expense ratio.
+- **SIP calculator:** P2 found the calculator more quickly, but wanted the assumed return rate and invested amount versus estimated earnings explained.
+- **Accessibility:** P3 found larger text and High-Contrast Mode more comfortable, but asked for a more visible accessibility control and a clearer Reading Comfort explanation.
+- **Keyboard and forms:** P4 found the flow simpler, but requested permanent form labels, more visible focus, and an account-opening progress indicator.
+- **Investment comparison:** P5 found categories and comparisons easier to explore, but wanted investment risks and Reduced Motion explained.
 
-The current report describes themes in the supplied comments. It does not claim measured improvements in completion time, errors, efficiency, or accessibility compliance. Five participants provide exploratory feedback, not a representative sample of all investment-platform users.
+The transcript themes informed the estimated distribution; they do not validate individual numerical values.
+
+## Limitations
+
+The individual scores are estimates, not recovered answers. Questionnaire labels and prompts are adapted from the 18-parameter reference rubric and should be checked against your original Google Form screenshot. No task completion time, click count, or error rate was provided. If actual participant-level scores are required for submission, retrieve the original response export or recollect the ratings rather than presenting these estimates as original responses.

@@ -1,0 +1,19 @@
+question_number,parameter,question,scale_min,scale_max,data_status
+1,Learnability,How easy was it to accomplish tasks the first time you encountered the design?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+2,Usability,How efficiently and satisfactorily could you use the website?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+3,Consistency,Were the design elements and terminology uniform throughout?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+4,Use of Metaphors,Did the icons and concepts relate logically to the real world?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+5,Navigation Structure,Was the flow logical and easy to follow?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+6,visual Hierarchy,Were the most important elements easy to focus on?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+7,Accessibility,Did the site feel usable for people with diverse abilities/needs?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+8,Responsiveness,Did the interface react quickly to your inputs?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+9,Efficiency of Interaction,"Once you learned the design, how fast could you perform tasks?",1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+10,Feedback and System Status,Did the site keep you informed about what was going on?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+11,Error Prevention and Recovery,Did the site prevent mistakes or help you recover if one occurred?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+12,Aesthetic and Minimalist Design,Was the interface free of irrelevant or cluttered information?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+13,Content Readability,Was the text easy to read and understand?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+14,Search and Discoverability,How easy was it to find specific information?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+15,Performance Perception,Did the website load and operate smoothly?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+16,Trust and Credibility,Did the design make the service feel reliable and secure?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+17,Personalization,"Did the site offer relevant, tailored content or settings?",1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM
+18,User Satisfaction,How pleasant was it to use this website overall?,1,10,ADAPTED FROM REFERENCE; VERIFY AGAINST ORIGINAL FORM

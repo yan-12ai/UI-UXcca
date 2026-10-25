@@ -1,0 +1,12 @@
+{
+  "status": "RETROSPECTIVE ESTIMATES ONLY — NOT VERIFIED ORIGINAL SURVEY DATA",
+  "participants": 5,
+  "parameters": 18,
+  "estimated_item_pairs": 90,
+  "scale_min": 1,
+  "scale_max": 10,
+  "original_mean_estimate": 6.68,
+  "redesigned_mean_estimate": 7.84,
+  "mean_difference_estimate": 1.17,
+  "note": "These item-level ratings were reconstructed after the original form response copy was lost. The user recalled that original-site ratings were mostly 7, with some 5/6 and some 8; redesigned ratings were mostly 8, with a few 6/7 and very few 9. Transcript themes were used to guide which items were lower or higher. These values are approximate estimates, not recovered participant answers. Do not label or present them as verbatim or verified survey responses."
+}

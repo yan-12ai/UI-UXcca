@@ -52,3 +52,8 @@ This project showed us that simplifying a financial website is not only about re
 At the same time, the testing helped us notice details that still need improvement, especially financial terminology, calculator explanations, and the visibility of accessibility controls. The keyboard walkthrough also showed the importance of permanent form labels and clear focus indicators.
 
 Overall, the redesign is a useful step toward making the investment interface more approachable for beginners and more comfortable for people with visual accessibility needs. The findings are based on five supplied participant transcripts, so they should be treated as exploratory feedback rather than proof of overall performance or formal accessibility compliance.
+
+
+## Survey rating note — retrospective estimates only
+
+The original form responses were not available to retrieve. For a working comparison, ratings were reconstructed from the remembered score bands and informed by the five participant transcripts. The resulting estimated mean is **6.68/10 for the original website** and **7.84/10 for the redesigned prototype** (estimated difference **+1.17 points**). These values are not recovered or verified participant responses and should not be reported as exact survey results. The transcripts support qualitative observations about navigation, the SIP calculator, accessibility controls, keyboard navigation, and investment comparisons, but do not establish the exact numeric scores given by each participant.

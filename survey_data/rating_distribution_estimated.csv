@@ -1,0 +1,21 @@
+website_version,score,rubric_label,item_count,percent_of_90_estimated_ratings,data_status
+Original,1,Very Poor,0,0.0,RETROSPECTIVE ESTIMATE
+Original,2,Poor,0,0.0,RETROSPECTIVE ESTIMATE
+Original,3,Below Average,0,0.0,RETROSPECTIVE ESTIMATE
+Original,4,Slightly Below Average,0,0.0,RETROSPECTIVE ESTIMATE
+Original,5,Average,3,3.3,RETROSPECTIVE ESTIMATE
+Original,6,Above Average,32,35.6,RETROSPECTIVE ESTIMATE
+Original,7,Good,46,51.1,RETROSPECTIVE ESTIMATE
+Original,8,Very Good,9,10.0,RETROSPECTIVE ESTIMATE
+Original,9,Excellent,0,0.0,RETROSPECTIVE ESTIMATE
+Original,10,Outstanding,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,1,Very Poor,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,2,Poor,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,3,Below Average,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,4,Slightly Below Average,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,5,Average,0,0.0,RETROSPECTIVE ESTIMATE
+Redesigned,6,Above Average,3,3.3,RETROSPECTIVE ESTIMATE
+Redesigned,7,Good,10,11.1,RETROSPECTIVE ESTIMATE
+Redesigned,8,Very Good,75,83.3,RETROSPECTIVE ESTIMATE
+Redesigned,9,Excellent,2,2.2,RETROSPECTIVE ESTIMATE
+Redesigned,10,Outstanding,0,0.0,RETROSPECTIVE ESTIMATE
