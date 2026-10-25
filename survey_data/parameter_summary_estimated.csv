@@ -1,0 +1,19 @@
+question_number,parameter,n_estimated_pairs,original_mean_estimate,redesigned_mean_estimate,mean_difference_estimate,original_median_estimate,redesigned_median_estimate,data_status
+1,Learnability,5,6.40,8.00,1.60,6,8,RETROSPECTIVE ESTIMATE
+2,Usability,5,6.60,8.00,1.40,7,8,RETROSPECTIVE ESTIMATE
+3,Consistency,5,7.00,8.00,1.00,7,8,RETROSPECTIVE ESTIMATE
+4,Use of Metaphors,5,7.00,8.00,1.00,7,8,RETROSPECTIVE ESTIMATE
+5,Navigation Structure,5,6.20,8.20,2.00,6,8,RETROSPECTIVE ESTIMATE
+6,visual Hierarchy,5,6.60,8.00,1.40,7,8,RETROSPECTIVE ESTIMATE
+7,Accessibility,5,6.00,7.80,1.80,6,8,RETROSPECTIVE ESTIMATE
+8,Responsiveness,5,7.60,8.00,0.40,8,8,RETROSPECTIVE ESTIMATE
+9,Efficiency of Interaction,5,6.60,7.60,1.00,7,8,RETROSPECTIVE ESTIMATE
+10,Feedback and System Status,5,6.60,7.60,1.00,7,8,RETROSPECTIVE ESTIMATE
+11,Error Prevention and Recovery,5,6.60,7.20,0.60,7,8,RETROSPECTIVE ESTIMATE
+12,Aesthetic and Minimalist Design,5,6.60,8.00,1.40,7,8,RETROSPECTIVE ESTIMATE
+13,Content Readability,5,6.00,7.80,1.80,6,8,RETROSPECTIVE ESTIMATE
+14,Search and Discoverability,5,6.20,7.80,1.60,6,8,RETROSPECTIVE ESTIMATE
+15,Performance Perception,5,7.40,8.00,0.60,7,8,RETROSPECTIVE ESTIMATE
+16,Trust and Credibility,5,7.80,8.00,0.20,8,8,RETROSPECTIVE ESTIMATE
+17,Personalization,5,6.40,7.40,1.00,6,7,RETROSPECTIVE ESTIMATE
+18,User Satisfaction,5,6.60,7.80,1.20,7,8,RETROSPECTIVE ESTIMATE
