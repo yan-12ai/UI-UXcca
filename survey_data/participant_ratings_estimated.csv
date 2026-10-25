@@ -1,0 +1,91 @@
+participant_id,participant_name,focus_theme,question_number,parameter,original_estimate,redesigned_estimate,estimated_difference,data_status
+P1,Divyansh Khandelwal,Beginner orientation and navigation,1,Learnability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,2,Usability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,3,Consistency,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,4,Use of Metaphors,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,5,Navigation Structure,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,6,visual Hierarchy,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,7,Accessibility,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,8,Responsiveness,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,9,Efficiency of Interaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,10,Feedback and System Status,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,11,Error Prevention and Recovery,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,12,Aesthetic and Minimalist Design,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,13,Content Readability,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,14,Search and Discoverability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,15,Performance Perception,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,16,Trust and Credibility,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,17,Personalization,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P1,Divyansh Khandelwal,Beginner orientation and navigation,18,User Satisfaction,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,1,Learnability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,2,Usability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,3,Consistency,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,4,Use of Metaphors,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,5,Navigation Structure,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,6,visual Hierarchy,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,7,Accessibility,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,8,Responsiveness,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,9,Efficiency of Interaction,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,10,Feedback and System Status,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,11,Error Prevention and Recovery,6,6,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,12,Aesthetic and Minimalist Design,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,13,Content Readability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,14,Search and Discoverability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,15,Performance Perception,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,16,Trust and Credibility,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,17,Personalization,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P2,Ashlesha,SIP calculator and result interpretation,18,User Satisfaction,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",1,Learnability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",2,Usability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",3,Consistency,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",4,Use of Metaphors,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",5,Navigation Structure,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",6,visual Hierarchy,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",7,Accessibility,5,9,4,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",8,Responsiveness,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",9,Efficiency of Interaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",10,Feedback and System Status,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",11,Error Prevention and Recovery,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",12,Aesthetic and Minimalist Design,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",13,Content Readability,5,8,3,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",14,Search and Discoverability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",15,Performance Perception,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",16,Trust and Credibility,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",17,Personalization,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P3,Kavindra,"Text size, contrast, and reading comfort",18,User Satisfaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,1,Learnability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,2,Usability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,3,Consistency,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,4,Use of Metaphors,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,5,Navigation Structure,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,6,visual Hierarchy,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,7,Accessibility,5,8,3,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,8,Responsiveness,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,9,Efficiency of Interaction,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,10,Feedback and System Status,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,11,Error Prevention and Recovery,6,6,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,12,Aesthetic and Minimalist Design,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,13,Content Readability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,14,Search and Discoverability,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,15,Performance Perception,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,16,Trust and Credibility,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,17,Personalization,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P4,Samiksha,Keyboard navigation and forms,18,User Satisfaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,1,Learnability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,2,Usability,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,3,Consistency,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,4,Use of Metaphors,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,5,Navigation Structure,6,9,3,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,6,visual Hierarchy,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,7,Accessibility,6,6,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,8,Responsiveness,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,9,Efficiency of Interaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,10,Feedback and System Status,7,7,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,11,Error Prevention and Recovery,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,12,Aesthetic and Minimalist Design,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,13,Content Readability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,14,Search and Discoverability,6,8,2,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,15,Performance Perception,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,16,Trust and Credibility,8,8,0,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,17,Personalization,6,7,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
+P5,Nishant,Investment discovery and comparison,18,User Satisfaction,7,8,1,RETROSPECTIVE ESTIMATE — NOT ORIGINAL RESPONSE
