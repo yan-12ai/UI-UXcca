@@ -1,0 +1,6 @@
+participant,theme,original_feedback,redesign_feedback,remaining_issue
+P1,Navigation and beginner orientation,"Many options; unsure where to begin; unfamiliar terms such as NAV and expense ratio","Mutual Funds and Learn felt easier to locate; page felt less crowded","Explain financial terms and add a clear beginner starting point"
+P2,SIP calculator,"Needed time to find calculator; unclear split between invested money and returns","Calculator easier to find; input layout clearer; results changed when amount changed","Display assumptions, invested amount, estimated earnings, total, and estimate disclaimer"
+P3,Text size and contrast,"Small text; browser zoom caused more scrolling; accessibility controls not obvious","Larger text and high contrast improved comfort","Make accessibility control prominent; explain Reading Comfort"
+P4,Keyboard and forms,"Tab navigation required effort; focus sometimes hard to see; unclear account-opening length","Simpler navigation and visible focus outline","Permanent field labels, stronger focus indicator, progress status"
+P5,Investment comparison,"Investment options felt spread out; comparisons required exploration","Clearer categories and comparison section easier to use","Explain investment risk and Reduced Motion"
