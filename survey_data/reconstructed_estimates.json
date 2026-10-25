@@ -1,0 +1,462 @@
+{
+  "title": "Retrospectively reconstructed UX ratings — not original response records",
+  "status": "ESTIMATES ONLY — original Google Forms response records were not available.",
+  "source": "User-recalled overall score distribution and the five supplied participant transcripts",
+  "reconstruction_note": "These item-level ratings were reconstructed after the original form response copy was lost. The user recalled that original-site ratings were mostly 7, with some 5/6 and some 8; redesigned ratings were mostly 8, with a few 6/7 and very few 9. Transcript themes were used to guide which items were lower or higher. These values are approximate estimates, not recovered participant answers. Do not label or present them as verbatim or verified survey responses.",
+  "scale": {
+    "minimum": 1,
+    "maximum": 10,
+    "higher_is_better": true
+  },
+  "participants": [
+    {
+      "id": "P1",
+      "name": "Divyansh Khandelwal",
+      "age": 21,
+      "focus": "Beginner orientation and navigation"
+    },
+    {
+      "id": "P2",
+      "name": "Ashlesha",
+      "age": 21,
+      "focus": "SIP calculator and result interpretation"
+    },
+    {
+      "id": "P3",
+      "name": "Kavindra",
+      "age": 22,
+      "focus": "Text size, contrast, and reading comfort"
+    },
+    {
+      "id": "P4",
+      "name": "Samiksha",
+      "age": 20,
+      "focus": "Keyboard navigation and forms"
+    },
+    {
+      "id": "P5",
+      "name": "Nishant",
+      "age": 21,
+      "focus": "Investment discovery and comparison"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "parameter": "Learnability",
+      "question": "How easy was it to accomplish tasks the first time you encountered the design?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 2,
+      "parameter": "Usability",
+      "question": "How efficiently and satisfactorily could you use the website?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 3,
+      "parameter": "Consistency",
+      "question": "Were the design elements and terminology uniform throughout?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 4,
+      "parameter": "Use of Metaphors",
+      "question": "Did the icons and concepts relate logically to the real world?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 5,
+      "parameter": "Navigation Structure",
+      "question": "Was the flow logical and easy to follow?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 6,
+      "parameter": "visual Hierarchy",
+      "question": "Were the most important elements easy to focus on?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 7,
+      "parameter": "Accessibility",
+      "question": "Did the site feel usable for people with diverse abilities/needs?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 8,
+      "parameter": "Responsiveness",
+      "question": "Did the interface react quickly to your inputs?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 9,
+      "parameter": "Efficiency of Interaction",
+      "question": "Once you learned the design, how fast could you perform tasks?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 10,
+      "parameter": "Feedback and System Status",
+      "question": "Did the site keep you informed about what was going on?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 11,
+      "parameter": "Error Prevention and Recovery",
+      "question": "Did the site prevent mistakes or help you recover if one occurred?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 12,
+      "parameter": "Aesthetic and Minimalist Design",
+      "question": "Was the interface free of irrelevant or cluttered information?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 13,
+      "parameter": "Content Readability",
+      "question": "Was the text easy to read and understand?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 14,
+      "parameter": "Search and Discoverability",
+      "question": "How easy was it to find specific information?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 15,
+      "parameter": "Performance Perception",
+      "question": "Did the website load and operate smoothly?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 16,
+      "parameter": "Trust and Credibility",
+      "question": "Did the design make the service feel reliable and secure?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 17,
+      "parameter": "Personalization",
+      "question": "Did the site offer relevant, tailored content or settings?",
+      "scale_min": 1,
+      "scale_max": 10
+    },
+    {
+      "number": 18,
+      "parameter": "User Satisfaction",
+      "question": "How pleasant was it to use this website overall?",
+      "scale_min": 1,
+      "scale_max": 10
+    }
+  ],
+  "rating_scale": [
+    {
+      "score": 1,
+      "label": "Very Poor",
+      "description": "Unusable. Broken navigation, frequent errors, or completely confusing layout."
+    },
+    {
+      "score": 2,
+      "label": "Poor",
+      "description": "Major design flaws. Frustrating to navigate with critical usability barriers."
+    },
+    {
+      "score": 3,
+      "label": "Below Average",
+      "description": "Hard to use. High effort required to accomplish basic tasks."
+    },
+    {
+      "score": 4,
+      "label": "Slightly Below Average",
+      "description": "Functional, but noticeable usability flaws and inconsistent visual cues."
+    },
+    {
+      "score": 5,
+      "label": "Average",
+      "description": "Basic functionality works, but the design is plain and lacks clear guidance or polish."
+    },
+    {
+      "score": 6,
+      "label": "Above Average",
+      "description": "Functional and reasonable to use, with minor design friction or room for cleanup."
+    },
+    {
+      "score": 7,
+      "label": "Good",
+      "description": "Easy to navigate, clear visual layout, and minor issues that do not disrupt the core experience."
+    },
+    {
+      "score": 8,
+      "label": "Very Good",
+      "description": "Smooth user experience, intuitive navigation, and clean visually."
+    },
+    {
+      "score": 9,
+      "label": "Excellent",
+      "description": "Highly polished, intuitive, and seamless. Exceeds expectations for usability."
+    },
+    {
+      "score": 10,
+      "label": "Outstanding",
+      "description": "Exceptional prototype. Flawless usability, highly engaging, and complete ease of use."
+    }
+  ],
+  "original_estimates": [
+    [
+      6,
+      6,
+      7,
+      7,
+      6,
+      6,
+      7,
+      8,
+      7,
+      7,
+      7,
+      6,
+      6,
+      6,
+      7,
+      8,
+      6,
+      6
+    ],
+    [
+      6,
+      6,
+      7,
+      7,
+      6,
+      7,
+      7,
+      8,
+      6,
+      6,
+      6,
+      7,
+      6,
+      6,
+      8,
+      8,
+      7,
+      6
+    ],
+    [
+      6,
+      7,
+      7,
+      7,
+      7,
+      6,
+      5,
+      8,
+      7,
+      7,
+      7,
+      7,
+      5,
+      7,
+      8,
+      8,
+      6,
+      7
+    ],
+    [
+      7,
+      7,
+      7,
+      7,
+      6,
+      7,
+      5,
+      7,
+      6,
+      6,
+      6,
+      7,
+      7,
+      6,
+      7,
+      7,
+      7,
+      7
+    ],
+    [
+      7,
+      7,
+      7,
+      7,
+      6,
+      7,
+      6,
+      7,
+      7,
+      7,
+      7,
+      6,
+      6,
+      6,
+      7,
+      8,
+      6,
+      7
+    ]
+  ],
+  "redesigned_estimates": [
+    [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7,
+      8,
+      8,
+      8,
+      7,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7,
+      7,
+      6,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7
+    ],
+    [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      9,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7,
+      8,
+      6,
+      8,
+      8,
+      7,
+      8,
+      8,
+      8,
+      8
+    ],
+    [
+      8,
+      8,
+      8,
+      8,
+      9,
+      8,
+      6,
+      8,
+      8,
+      7,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      7,
+      8
+    ]
+  ],
+  "distribution": {
+    "original": {
+      "5": 3,
+      "6": 32,
+      "7": 46,
+      "8": 9
+    },
+    "redesigned": {
+      "6": 3,
+      "7": 10,
+      "8": 75,
+      "9": 2
+    }
+  },
+  "summary": {
+    "number_of_participants": 5,
+    "parameters_per_participant": 18,
+    "total_estimated_item_pairs": 90,
+    "original_mean": 6.677777777777778,
+    "redesigned_mean": 7.844444444444444,
+    "mean_difference": 1.166666666666666,
+    "original_distribution": {
+      "5": 3,
+      "6": 32,
+      "7": 46,
+      "8": 9
+    },
+    "redesigned_distribution": {
+      "6": 3,
+      "7": 10,
+      "8": 75,
+      "9": 2
+    },
+    "all_estimates_are_reconstructed": true
+  }
+}
