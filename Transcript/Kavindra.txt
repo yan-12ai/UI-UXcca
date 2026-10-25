@@ -1,0 +1,153 @@
+# Participant 3 - Kavindra — Male, Age 22
+
+## Transcript 3A — Original Angel One Website
+
+Okay, so this is the Angel One website.
+
+Hmm... the homepage looks fine, but there's quite a lot of text and information.
+
+Let me scroll down a little.
+
+Okay, some of these descriptions are actually quite small.
+
+I can read them, but I have to concentrate a bit.
+
+Let me check the mutual funds section.
+
+Okay, opening that.
+
+Hmm... there's a lot of information here.
+
+I'm trying to read these descriptions, but some of the text feels a little small.
+
+Wait, let me zoom in.
+
+Okay, that's better.
+
+But now I have to scroll around more to see everything properly.
+
+Let me zoom out again.
+
+Hmm... I wonder if there's an accessibility setting somewhere.
+
+Let me check.
+
+Maybe it's under settings?
+
+I'm looking around, but I can't immediately find anything for changing the text size.
+
+There might be an option somewhere, but I'm not seeing it right now.
+
+Okay, let me just continue.
+
+I'll try reading this section.
+
+The information is useful, but I feel like there's too much to focus on at once.
+
+Especially when there are multiple sections close together.
+
+I think someone with weaker eyesight might find this a little tiring.
+
+Let me go back to the homepage.
+
+Okay.
+
+I'm trying to find something that makes the text easier to read.
+
+Hmm... not sure.
+
+I think the website is fine for someone who's comfortable reading smaller text.
+
+But personally, I'd prefer larger text and stronger contrast.
+
+Maybe a button where I could change the display settings directly.
+
+That would be useful.
+
+Overall, the website has the information I need, but reading everything comfortably takes a bit of effort.
+
+## Transcript 3B — Your Redesigned Website
+
+Okay, now I'm opening the redesigned website.
+
+Hmm... this looks simpler.
+
+There's less information crowded together.
+
+Let me check the text.
+
+Okay, it's readable, but I still want to make it slightly bigger.
+
+Wait, I can see an accessibility option here.
+
+Let me open that.
+
+Oh, nice.
+
+There's a text-size setting.
+
+I'll try large first.
+
+Okay... yeah, that's better.
+
+Actually, this is much more comfortable.
+
+Let me try extra large also.
+
+Oh, okay, that's quite big.
+
+I think large is enough for me.
+
+I'll switch back.
+
+Now there's a high-contrast option.
+
+Let me turn that on.
+
+Hmm... yeah, I can notice the difference.
+
+The text stands out more clearly.
+
+That's good.
+
+Let me open Mutual Funds with these settings.
+
+Okay.
+
+I'm scrolling down now.
+
+Yeah, the text is still readable.
+
+Obviously, I have to scroll more because everything is bigger, but that's fine.
+
+At least I don't have to zoom in manually.
+
+Wait, what's Reading Comfort?
+
+Let me try that.
+
+Okay, I've enabled it.
+
+Hmm...
+
+I'm not completely sure what changed.
+
+Maybe the spacing or the way the text is displayed?
+
+I think they should add a small description explaining it.
+
+Let me go back.
+
+Okay, the accessibility settings are quite useful.
+
+I especially like being able to choose the text size.
+
+One thing, though... the accessibility button could be a little bigger.
+
+Someone who has difficulty seeing might not notice it immediately.
+
+But yeah, compared to the previous website, I feel like I have more control over how the information appears.
+
+And that's helpful because not everyone is comfortable reading the same text size.
+
+Overall, this version feels easier for me to read.
